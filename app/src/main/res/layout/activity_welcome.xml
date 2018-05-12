@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal"
+    android:background="#90A4AE"
+    tools:context="com.example.hrishi.foodin.Welcome">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Welcome to Foodin!"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="#000000"
+        android:textStyle="italic|bold"
+        android:onClick="next"/>
+
+</LinearLayout>
+

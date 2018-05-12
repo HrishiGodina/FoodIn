@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ande_ke_swad"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:weightSum="5">
+
+
+        <TextView
+            android:id="@+id/egg_fry_rice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/egg_fry_rice"/>
+
+        <TextView
+            android:id="@+id/egg_burji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/egg_bhurji"/>
+
+        <TextView
+            android:id="@+id/egg_omlet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/egg_omlet"/>
+
+        <TextView
+            android:id="@+id/egg_boil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/egg_boil"/>
+
+        <TextView
+            android:id="@+id/egg_masala_fry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/egg_masala_fry"/>
+
+        <TextView
+            android:id="@+id/egg_fry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/egg_fry"/>
+
+</LinearLayout>

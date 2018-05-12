@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Food In</string>
+    <string name="any_time_snacks">Any Time Snacks</string>
+    <string name="food_nest">Food Nest</string>
+    <string name="chicken_ka_tadka">Chicken ka Tadka</string>
+    <string name="majedar_south_indian">Majedar South Indian</string>
+    <string name="ande_ka_swad">Ande ka swad</string>
+    <string name="chinese_ka_kamal">Chinese ka Kamal</string>
+    <string name="total">Total :</string>
+    <string name="order">Order</string>
+    <string name="egg_fry_rice">Egg Fry Rice</string>
+    <string name="egg_bhurji">Egg Bhurji</string>
+    <string name="egg_omlet">Egg Omlet</string>
+    <string name="egg_boil">Egg Boil</string>
+    <string name="egg_masala_fry">Egg Masala Fry</string>
+    <string name="egg_fry">Egg Fry</string>
+    <string name="aloo_paratha">Aloo Paratha</string>
+    <string name="gobi_paratha">Gobi Paratha</string>
+    <string name="cheese_paratha">Cheese Paratha</string>
+    <string name="paneer_paratha">Paneer Paratha</string>
+    <string name="Login">login</string>
+    <string name="rs_40">Rs.40</string>
+    <string name="bakery">Bakery</string>
+    <string name="tea_post">Tea post</string>
+    <string name="parathe_ka_swad">Parathe ka Swad</string>
+    <string name="item">Item</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="add">Add</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="total_rs">Total: Rs.</string>
+    <string name="rs">Rs.</string>
+    <string name="_0">0</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+</resources>
